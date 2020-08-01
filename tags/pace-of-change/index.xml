@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pace of Change on Innovation Unboxed</title>
+    <link>https://www.innovationunboxed.org/tags/pace-of-change/</link>
+    <description>Recent content in Pace of Change on Innovation Unboxed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 19 Dec 2017 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.innovationunboxed.org/tags/pace-of-change/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The good, the bad and the ugly</title>
+      <link>https://www.innovationunboxed.org/blog/pace-of-change-in-digital/</link>
+      <pubDate>Tue, 19 Dec 2017 10:54:24 +0200</pubDate>
+      
+      <guid>https://www.innovationunboxed.org/blog/pace-of-change-in-digital/</guid>
+      <description>what the pace of change in digital means for charities It has become increasingly challenging, over the last 10 years, for many small to medium sized charities to continue to deliver high quality services. Many organisations are struggling to stretch squeezed budgets to be able to provide more evidence of their effectiveness and impact, whilst also supporting more beneficiaries. It’s a brave new world where disruption and innovation have become the watch words of larger charities, and smaller frontline bodies are having to radically redesign both their core operations and delivery models to meet these modern-day challenges.</description>
+    </item>
+    
+  </channel>
+</rss>

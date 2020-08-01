@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pitch on Innovation Unboxed</title>
+    <link>https://www.innovationunboxed.org/tags/pitch/</link>
+    <description>Recent content in Pitch on Innovation Unboxed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 19 Dec 2017 11:22:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.innovationunboxed.org/tags/pitch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10x pitch day</title>
+      <link>https://www.innovationunboxed.org/blog/10x-pitch-day/</link>
+      <pubDate>Tue, 19 Dec 2017 11:22:00 +0200</pubDate>
+      
+      <guid>https://www.innovationunboxed.org/blog/10x-pitch-day/</guid>
+      <description>As we were waiting to join our fellow pitchers at the 10x Charity Election 2018 it struck me how much how much the world has changed for charities in the last 10 years and the amazing opportunities that are now possible to charities because of technology.
+10x banking embodies the future for both business and consumers in the way we use and consume technology in the world of banking. To me it provides an inspiring and open-minded view about what isn’t working in the current system and where practical steps can be made to do something to practically look at the disconnects and to offer something different.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cast on Innovation Unboxed</title>
+    <link>https://www.innovationunboxed.org/tags/cast/</link>
+    <description>Recent content in Cast on Innovation Unboxed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 01 Oct 2019 20:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.innovationunboxed.org/tags/cast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making sense of what digital maturity means in the charity sector</title>
+      <link>https://www.innovationunboxed.org/blog/making-sense-of-digital-maturity/</link>
+      <pubDate>Tue, 01 Oct 2019 20:20:00 +0200</pubDate>
+      
+      <guid>https://www.innovationunboxed.org/blog/making-sense-of-digital-maturity/</guid>
+      <description>Making sense of what ‘digital maturity’ means in the charity sector Innovation Unboxed worked with Think Social Tech and CAST between May to June 2019 to build a picture of the shape and nature of digital maturity frameworks across the charity sector. We analysed their content and identified consistent patterns in how they describe what digital maturity should look like. What surprised us most is that despite the ‘noise’ surrounding digital maturity, there is little shared vision as to what best practice looks like.</description>
+    </item>
+    
+    <item>
+      <title>Cutting through the noise surrounding digital maturity</title>
+      <link>https://www.innovationunboxed.org/blog/cutting-through-noise-surrounding-digital-maturity/</link>
+      <pubDate>Tue, 03 Sep 2019 15:00:00 +0000</pubDate>
+      
+      <guid>https://www.innovationunboxed.org/blog/cutting-through-noise-surrounding-digital-maturity/</guid>
+      <description>Over the course of the last three months, Innovation Unboxed, Think Social Tech, and CAST have been building a picture of the shape and nature of digital maturity frameworks. Following contributions from a range of stakeholders (responding to this blog post), we identified 50 unique digital maturity diagnostic tools, think pieces, surveys, codes and reports in this Airtable most relevant to the charity sector. We analysed their content and identified consistent patterns in how they describe what digital maturity should look like.</description>
+    </item>
+    
+    <item>
+      <title>How can you assess digital maturity in charities?</title>
+      <link>https://www.innovationunboxed.org/blog/assessing-digital-maturity/</link>
+      <pubDate>Thu, 18 Apr 2019 05:40:00 +0000</pubDate>
+      
+      <guid>https://www.innovationunboxed.org/blog/assessing-digital-maturity/</guid>
+      <description>In the last few years we’ve seen a plethora of digital codes, tools, principles and frameworks to help us define what successful digital transformation, leadership and practice looks like in the charity sector.
+However, I’m also acutely aware that both charities and funders can struggle to implement best practice, whatever stage they are at, or even know what that should look like or how to translate codes and principles in to their everyday work and operations.</description>
+    </item>
+    
+  </channel>
+</rss>
